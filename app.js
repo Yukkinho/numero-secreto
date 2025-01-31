@@ -15,11 +15,13 @@ if ('speechSynthesis' in window) {
     utterance.rate = 1.2;
     window.speechSynthesis.speak(utterance);
 
-    } else {
+} else {
 
-    console.log("Web Speech API não suportada neste navegador.");
+console.log("Web Speech API não suportada neste navegador.");
 
-    }
+}
+
+
 
 
 

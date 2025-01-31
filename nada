@@ -1,5 +1,0 @@
-Confira a conexão com git remote -v.
-Use git pull origin main para atualizar o local.
-Adicione alterações com git add ..
-Crie um commit com git commit -m "Mensagem".
-Envie com git push origin main.
